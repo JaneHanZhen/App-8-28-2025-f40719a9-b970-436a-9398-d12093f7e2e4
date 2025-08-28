@@ -6,7 +6,7 @@ export default function HomeScreen() {
     <SafeAreaView style={styles.container}>
       <StatusBar style="auto" />
       <View style={styles.contentContainer}>
-        <Text style={styles.title}>Hello Jason!</Text>
+        <Text style={styles.title}>Hello moon!</Text>
         <Text style={styles.subtitle}>Welcome to my React Native app</Text>
       </View>
     </SafeAreaView>
